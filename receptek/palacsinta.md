@@ -3,7 +3,11 @@
 **Kategória:** Édesség / könnyű fogás
 **Elkészítési idő:** ~30 perc
 **Adag:** 5 fő
-**Csak édesen!**
+**Csak édesen! — és csak vacsorára**
+
+**Előkészíthetőség:** 🟡 Részben előkészíthető — a tészta előre összeállítható, a sütés frissen
+
+**Gyakoriság:** 🔁 ~Hetente 1× — édes
 
 ## Gyerekek
 - 🟢 Mindenki eszik — kedvenc!

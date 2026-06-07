@@ -5,6 +5,10 @@
 **Sütés:** 180°C, alsó-felső sütés, középső polc — amíg szép pirosra sül
 **Adag:** 4 fő
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — előző nap összerakható, másnap csak sütés
+
+**Gyakoriság:** 🔁 ~3 hetente 1×
+
 ## Gyerekek
 - 🔴 Legnagyobb gyerek — nem eszi
 - 🟢 Középső gyerek — eszi

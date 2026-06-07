@@ -4,6 +4,10 @@
 **Elkészítési idő:** 10-15 perc
 **Adag:** 5 fő
 
+**Előkészíthetőség:** 🔴 Frissen, aznap készítendő — gyors, frissen készítendő
+
+**Gyakoriság:** 🔁 ~2 hetente 1×
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi — ramen estéken a gyerekeknek alternatív vacsorát kell tervezni
 

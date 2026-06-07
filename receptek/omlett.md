@@ -4,6 +4,10 @@
 **Elkészítési idő:** ~15 perc
 **Adag:** csak felnőtteknek (2 fő) — gyerekeknek külön vacsora kell!
 
+**Előkészíthetőség:** 🔴 Frissen, aznap készítendő — frissen, azonnal tálalva
+
+**Gyakoriság:** 🔁 ~2 hetente 1×
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi — omlett estéken a gyerekeknek alternatív vacsorát kell tervezni
 

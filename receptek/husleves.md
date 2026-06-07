@@ -4,6 +4,10 @@
 **Elkészítési idő:** 3–4 óra
 **Adag:** 5 fő
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — előző nap is főzhető, másnap még jobb
+
+**Gyakoriság:** 🔁 ~Hetente 1× — hétvégi
+
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — eszik
 - 🟢 Középső gyerek — eszik

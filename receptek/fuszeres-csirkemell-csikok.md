@@ -5,6 +5,10 @@
 **Adag:** 5 fő (2 felnőtt + 3 gyerek) — 500 g hús egy étkezés
 **Fehérje:** csirkemell vagy combfilé
 
+**Előkészíthetőség:** 🟡 Részben előkészíthető — a pác/csíkok előző nap, a sütés aznap frissen
+
+**Gyakoriság:** 🔁 ~2 hetente 1×
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

@@ -5,6 +5,10 @@
 **Adag:** 5 fő (2 felnőtt + 3 gyerek)
 **Fehérje:** darált marhahús
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — előző nap összerakható, másnap csak sütés (+5-10 perc)
+
+**Gyakoriság:** 🔁 ~3 hetente 1×
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi igazán
 

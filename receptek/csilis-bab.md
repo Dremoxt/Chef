@@ -6,6 +6,10 @@
 **Fehérje:** darált marhahús
 **Köret:** rizs
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — a bab előző nap, a szalsza frissen készüljön
+
+**Gyakoriság:** 🔁 ~2 hetente 1×
+
 ## Gyerekek
 
 - 🟢 Legnagyobb gyerek — kedvenc, nagy adagot eszik

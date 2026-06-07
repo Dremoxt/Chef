@@ -6,6 +6,10 @@
 
 > Főleg csirkepaprikáshoz, de más pörköltökhöz is illik.
 
+**Előkészíthetőség:** 🔴 Frissen, aznap készítendő — frissen a legjobb, állva összeragad
+
+**Gyakoriság:** 🔁 Igény szerint — köret
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

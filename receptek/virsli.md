@@ -4,6 +4,10 @@
 **Elkészítési idő:** ~10 perc
 **Adag:** 5 fő
 
+**Előkészíthetőség:** 🔴 Frissen, aznap készítendő — gyors, frissen melegítve
+
+**Gyakoriság:** 🔁 Heti 1-2× — gyors kedvenc
+
 ## Gyerekek
 - 🟢 Mindenki eszik — gyerekek kedvence!
 

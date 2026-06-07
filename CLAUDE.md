@@ -2,22 +2,14 @@
 
 ## Projekt leírás
 
-Ez egy családi heti menütervező projekt. A cél, hogy minden héten könnyen és gyorsan összeállítsuk az ebéd és vacsora menüt az egész családnak, bevásárlólistával, receptekkel és tápanyag-információval együtt.
+Családi heti menütervező — ebéd és vacsora tervezés 5 főre (2 felnőtt + 3 gyerek), bevásárlólistával és receptekkel.
 
-## Családi kontextus
-
-### Családtagok
-- **Apa** — felnőtt, normál adag
-- **Anya** — felnőtt, normál adag
-- **Nagygyerek** — 7 éves, kb. 70%-os felnőtt adag
-- **Középső** — 5 éves, kb. 60%-os felnőtt adag
-- **Kicsi** — 3 éves, kb. 50%-os felnőtt adag
-
+## Kontextus
 ### Étrendi korlátozások
 - Nincs allergia, intoleranicia vagy egyéb korlátozás
 
 ### Étkezési szokások
-- **Ebéd:** könnyedebb, de tápláló (a gyerekek napközben aktívak)
+- **Ebéd:** mindig leves + főétel (könnyedebb, de tápláló — a gyerekek napközben aktívak)
 - **Vacsora:** tartalmasabb főétkezés, a család együtt eszik
 - **Hétköznap:** max 30-45 perc főzési idő, gyors és egyszerű
 - **Hétvégén:** lehet igényesebb, hosszabb elkészítési idejű étel is
@@ -39,7 +31,25 @@ Ez egy családi heti menütervező projekt. A cél, hogy minden héten könnyen 
 
 ### Étkezés-típus kötések (melyik étel mikor szerepelhet)
 - **Csak ebéd:** Csirkepaprikás, Sertés szűzérme krumplipürével, Pásztorpite
-- **Csak vacsora:** Virsli, Gofri
+- **Csak vacsora:** Virsli, Gofri, Tejbegríz, Palacsinta
+
+### Előkészíthetőség címke (minden receptfájl fejlécében)
+Minden receptfájl tartalmaz egy **Előkészíthetőség** mezőt, ami megmondja, mennyire lehet előre dolgozni vele:
+- 🟢 **Előző nap elkészíthető** — nyugodtan elkészíthető előre, felmelegítve is jó (sokszor finomabb)
+- 🟡 **Részben előkészíthető** — egyes elemek előre mehetnek (pác, szósz, tészta, püré), a befejezés frissen
+- 🔴 **Frissen, aznap készítendő** — frissen az igazi, nem érdemes előre csinálni
+
+Tervezésnél használd ezt: zsúfolt napokra a 🟢/🟡 ételeket időzítsd (előző nap előkészítve), a 🔴 ételeket ráérős napokra.
+
+### Gyakoriság címke (minden receptfájl fejlécében)
+Minden receptfájl tartalmaz egy **Gyakoriság** mezőt, ami megmondja, milyen sűrűn szerepelhet az étel a menüben:
+- 🔁 **Heti 1-2×** — gyors kedvencek (virsli, meleg szendvics)
+- 🔁 **~Hetente 1×** — pl. húsleves, édes fogások (gofri, palacsinta, tejbegríz), pizza
+- 🔁 **~2 hetente 1×** — a legtöbb leves és gyors főétel
+- 🔁 **~3 hetente 1×** — laktató/munkásabb ételek (lasagna, csilis bab tartomány) és a **csirkepaprikás (legfeljebb 3 hetente egyszer)**
+- 🔁 **Igény szerint** — köretek/kísérők (galuska, caciki)
+
+**Tervezésnél kötelező:** nézd meg a legutóbbi ~3 hét menütervét (`heti-menu-*.md`), és ne sértsd meg a gyakoriságot — ami nemrég szerepelt, azt a megadott időközön belül ne tervezd újra. **Csirkepaprikás: max 3 hetente egyszer.**
 
 ## Fájlstruktúra
 
@@ -50,25 +60,35 @@ Ez egy családi heti menütervező projekt. A cél, hogy minden héten könnyen 
 ├── receptek.md                # Receptlista index (kategóriák, gyerekjelölések, időigény)
 ├── szoszok.md                 # Szósz receptek és párosítások
 ├── receptek/                  # Részletes receptfájlok (egy étel = egy fájl)
-│   ├── csilis-bab.md
 │   ├── bolognai-ragu.md
-│   ├── lasagna.md
-│   ├── csirkepaprikas.md
-│   ├── galuska.md
-│   ├── paprikas-krumpli.md
-│   ├── fuszeres-csirkemell-csikok.md
+│   ├── brokkoli-kremleves.md
 │   ├── caciki.md
-│   ├── palacsinta.md
+│   ├── csilis-bab.md
+│   ├── csirkepaprikas.md
+│   ├── cukkini-kremleves.md
+│   ├── fuszeres-csirkemell-csikok.md
+│   ├── galuska.md
+│   ├── gofri.md
 │   ├── husleves.md
+│   ├── instant-ramen.md
 │   ├── kaposztaleves-husos.md
 │   ├── kaposztaleves-vegetarian.md
-│   ├── brokkoli-kremleves.md
 │   ├── karfiol-kremleves.md
-│   ├── cukkini-kremleves.md
+│   ├── lasagna.md
+│   ├── meleg-szendvics.md
+│   ├── omlett.md
+│   ├── palacsinta.md
+│   ├── paprikas-krumpli.md
+│   ├── pasztorpite.md
+│   ├── pizza-rendeles.md
+│   ├── rakott-krumpli.md
 │   ├── savanyú-krumplileves.md
-│   ├── spenótos-tejszínes-csirkemell.md
 │   ├── sertes-szuzerme-krumplipurevel.md
-│   └── pasztorpite.md
+│   ├── spenótos-tejszínes-csirkemell.md
+│   ├── tejbegriz.md
+│   ├── tojas-krem.md
+│   ├── tonhalas-paradicsomos-teszta.md
+│   └── virsli.md
 ├── heti-menu-YYYY-WNN.md      # Generált heti menütervek (pl. heti-menu-2026-W09.md)
 └── Cooking skills/
     └── SKILL.md               # A menütervező skill
@@ -87,9 +107,13 @@ Ez egy családi heti menütervező projekt. A cél, hogy minden héten könnyen 
 
 ## Minőségi elvárások
 
+- **Tervezés előtt MINDIG egyezz meg a főzési kapacitásban:** mely napokon főzünk (vs. maradék/rendelés), és az egyes főzős napokon mennyi idő / mikor lesz a főzésre. Ez alapján időzítsd az ételeket az előkészíthetőség címke szerint (zsúfolt nap → 🟢/🟡 + gyors fogás; ráérős nap → 🔴 + hosszabb ételek).
 - A menütervet KIZÁRÓLAG a `receptek/` mappában lévő receptek alapján kell összeállítani
+- **Tervezés előtt MINDIG kérdezd meg, mit ettek/főztek VALÓJÁBAN az elmúlt héten** — a mentett menütervek gyakran nem tükrözik a valóságot (a család sokszor változtat). A tényleges étkezéseket vedd alapul, ne csak a `heti-menu-*.md` fájlokat.
+- **Tartsd be a receptek Gyakoriság címkéjét:** a tényleges (megkérdezett) elmúlt heti étkezések + a legutóbbi ~3 hét menüi alapján ne ismételj a megadott időköznél sűrűbben (csirkepaprikás max 3 hetente egyszer)
 - A bevásárlólista az egyes receptfájlokban szereplő pontos hozzávalók alapján készül
 - A bevásárlólista legyen összesített (ne legyen 3x csirkemell külön-külön)
+- A bevásárlást is tervezd meg időben: minden hozzávaló **legkésőbb 1 nappal a főzés (vagy az előző esti előkészítés) napja előtt** legyen otthon. A bevásárlólista tartalmazzon egy rövid „Beszerzési ütemezés" szakaszt a legkésőbbi beszerzési nappal/napokkal.
 - A bevásárlólista checkbox formátumú (`- [ ]`)
 - Minden receptfájl "Bevásárlólista megjegyzés" szekciójában szereplő extra tételek is kerüljenek a listára
 - A gyerekek étkezési preferenciái receptenként eltérnek — mindig az adott receptfájl "Gyerekek" szekciója az irányadó

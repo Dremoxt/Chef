@@ -5,6 +5,10 @@
 **Adag:** 5 fő (2 felnőtt + 3 gyerek)
 **Fehérje:** sertés szűzérme
 
+**Előkészíthetőség:** 🟡 Részben előkészíthető — a krumplipüré előkészíthető, a szűzérme frissen sütendő
+
+**Gyakoriság:** 🔁 ~2 hetente 1×
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 
