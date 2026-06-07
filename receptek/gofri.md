@@ -4,6 +4,10 @@
 **Elkészítési idő:** ~30 perc
 **Adag:** 5 fő
 
+**Előkészíthetőség:** 🟡 Részben előkészíthető — a tészta előre összeállítható, a sütés frissen
+
+**Gyakoriság:** 🔁 ~Hetente 1× — édes — ne túl gyakran
+
 ## Gyerekek
 - 🟢 Mindenki eszik — kedvenc!
 

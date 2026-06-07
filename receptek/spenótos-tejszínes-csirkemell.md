@@ -5,6 +5,10 @@
 **Elkészítési idő:** ~35 perc
 **Adag:** 2 fő *(5 főre duplázd meg az összetevőket)*
 
+**Előkészíthetőség:** 🟡 Részben előkészíthető — a spenót előre párolható, a tejszínes befejezés frissen
+
+**Gyakoriság:** 🔁 ~3 hetente 1×
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi
 

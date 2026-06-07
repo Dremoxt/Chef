@@ -8,6 +8,10 @@
 > Önállóan tálalva: tésztával + reszelt parmezán
 > Lasagnához: lásd `lasagna.md`
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — sőt másnapra még jobb az íze
+
+**Gyakoriság:** 🔁 ~3 hetente 1× — hosszú, laktató
+
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — eszik
 - 🟢 Középső gyerek — eszik

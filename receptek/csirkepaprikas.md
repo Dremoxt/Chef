@@ -6,6 +6,10 @@
 **Fehérje:** csirke (alsó + felső comb)
 **Köret:** galuska (lásd `galuska.md`)
 
+**Előkészíthetőség:** 🟡 Részben előkészíthető — a paprikás előző nap (másnap finomabb), a galuska frissen
+
+**Gyakoriság:** 🔁 ~3 hetente 1× — LEGFELJEBB 3 hetente egyszer
+
 ## Gyerekek
 - 🟡 Legnagyobb gyerek — nem nagyon eszi
 - 🟢 Középső gyerek — eszik

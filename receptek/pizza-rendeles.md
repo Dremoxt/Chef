@@ -5,6 +5,10 @@
 **Adag:** 5 fő
 **Megjegyzés:** Hetente egyszer szoktunk rendelni
 
+**Előkészíthetőség:** 🔴 Frissen, aznap készítendő — rendelés, aznap frissen
+
+**Gyakoriság:** 🔁 ~Hetente 1× — pénteki lazítás
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

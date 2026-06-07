@@ -5,6 +5,10 @@
 **Adag:** 4 fő *(5 főre érdemes 1,2 kg krumplival és 60 dkg kolbásszal számolni)*
 **Fehérje:** kolbász
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — felmelegítve is jó
+
+**Gyakoriság:** 🔁 ~2 hetente 1×
+
 ## Gyerekek
 - 🔴 Legnagyobb gyerek — nem eszi
 - 🟢 Középső gyerek — eszik

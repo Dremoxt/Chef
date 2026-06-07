@@ -36,7 +36,7 @@ Ha egy ételt valamelyik gyerek nem eszik, gondoskodj alternatíváról (pl. egy
 - Hétköznap gyors ételeket tervezz (max. 30-45 perc — az elkészítési idő minden receptfájlban szerepel)
 - Hétvégén megengedhető a hosszabb főzés
 - Gondolj a maradék-újrahasznosításra (pl. bolognai ragu → másnap lasagna)
-- Leveseket inkább hétvégére vagy felnőtt ebédre tervezz — a gyerekek nem nagyon eszik a levest
+- Ebédre mindig tervezz levest ÉS főételt (leves + második fogás)
 
 ---
 
@@ -48,12 +48,22 @@ Mielőtt tervezel, olvasd be:
 1. `receptek.md` — az összes elérhető étel áttekintése
 2. `kedvencek.md` — a kedvencek listája
 3. Az adott hétre tervezett receptek fájljait a `receptek/` mappából
+4. **A legutóbbi ~3 hét menütervét** (`heti-menu-*.md`) — kiindulásként, hogy lásd, mi szerepelt nemrég. ⚠️ De ezek csak terv-szintűek; a tényleges étkezéseket **a felhasználótól kérdezd meg** (lásd 1. lépés, 0. kérdés), és azt vedd alapul a **Gyakoriság** címke betartásához (ne ismételj a megadott időköznél sűrűbben; csirkepaprikás max 3 hetente egyszer).
 
 ### 1. lépés: Információgyűjtés
 
-Kérdezd meg:
-1. Van-e speciális alkalom a héten? (vendégek, születésnap, kirándulás, elfoglalt napok)
-2. Van valami amit mindenképpen szeretnének/nem szeretnének ezen a héten?
+**MINDIG egyezz meg a főzési kapacitásban, MIELŐTT tervet készítenél.** Kérdezd meg:
+
+0. **Mit ettetek / főztetek VALÓJÁBAN az elmúlt héten?** A mentett menütervek gyakran NEM tükrözik a valóságot (a család sokszor változtat). Ezért a Gyakoriság-ellenőrzéshez (mit ne ismételj) ne csak a `heti-menu-*.md` fájlokra hagyatkozz — **kérdezd meg a felhasználót, mi készült el ténylegesen**, és azt vedd alapul.
+1. **Mely napokra kell terv?** Melyik napokon főzünk, és melyik napokon eszünk maradékot / rendelünk? (Nem mindig kell mind a 7 napra terv.)
+2. **Az egyes főzős napokon mennyi idő / mikor lesz a főzésre?** Pl. melyik napon van csak rövid idő (gyors étel kell), melyiken lehet ráérősen főzni, és van-e nap amikor előző este lehet előkészíteni.
+3. Van-e speciális alkalom a héten? (vendégek, születésnap, kirándulás, elfoglalt napok)
+4. Van valami amit mindenképpen szeretnének/nem szeretnének ezen a héten?
+
+**A főzési kapacitást kösd össze az előkészíthetőség címkével:**
+- **Zsúfolt nap / kevés idő:** 🟢 (előző nap elkészítve) vagy 🟡 (előre előkészítve) ételeket időzíts ide, illetve gyors (≤30 perc) fogásokat.
+- **Ráérős nap:** ide kerülhetnek a 🔴 (frissen készítendő) és a hosszabb elkészítési idejű ételek.
+- Ha egy napon előző este van idő előkészíteni, használd ki (pác, szósz, püré, tészta előre).
 
 ### 2. lépés: Menüterv összeállítása
 
@@ -64,9 +74,9 @@ Készíts egy markdown fájlt az alábbi struktúrával. A fájl neve: `heti-men
 
 ## Heti áttekintés
 
-| Nap | Ebéd | Vacsora |
-|-----|------|---------|
-| Hétfő | ... | ... |
+| Nap | Ebéd (leves + főétel) | Vacsora |
+|-----|------------------------|---------|
+| Hétfő | ... + ... | ... |
 | Kedd | ... | ... |
 | Szerda | ... | ... |
 | Csütörtök | ... | ... |
@@ -78,9 +88,14 @@ Készíts egy markdown fájlt az alábbi struktúrával. A fájl neve: `heti-men
 
 ## Hétfő
 
-### 🥣 Ebéd: [étel neve]
-**Elkészítési idő:** X perc | **Adag:** 2 felnőtt + 3 gyerek
-**Kalória:** ~XXX kcal/felnőtt | ~XXX kcal/gyerek
+### 🥣 Ebéd: [leves neve] + [főétel neve]
+
+**Leves:** [leves neve]
+**Elkészítési idő:** X perc | **Kalória:** ~XXX kcal/felnőtt | ~XXX kcal/gyerek
+**Recept:** `receptek/[fajlnev].md`
+
+**Főétel:** [főétel neve]
+**Elkészítési idő:** X perc | **Kalória:** ~XXX kcal/felnőtt | ~XXX kcal/gyerek
 **Recept:** `receptek/[fajlnev].md`
 
 **Gyerekek:** [ki eszi, ki nem — a receptfájl alapján]
@@ -139,6 +154,12 @@ Készíts egy markdown fájlt az alábbi struktúrával. A fájl neve: `heti-men
 - Összesítsd az összetevőket (ne legyen duplikáció)
 - Ellenőrizd minden receptfájl **"Bevásárlólista megjegyzés"** szekcióját — ha van ilyen, azokat a tételeket is add hozzá (pl. csilis babhoz automatikusan szalsza hozzávalók is kellenek)
 - Kategorizáld bolt-barát sorrendben
+
+**Beszerzési időzítés (mindig tervezd meg):**
+- Minden hozzávaló **legkésőbb 1 nappal a főzés napja előtt** legyen otthon — ne a főzés napján kelljen vásárolni.
+- Ha egy ételt előző nap készítünk el vagy este előkészítünk (🟢/🟡 címke, pl. pác), akkor a hozzávaló az **előkészítés napjára** kell — vagyis a beszerzési határidő még 1 nappal korábbra csúszik (gyakorlatilag 2 nappal az evés napja előtt).
+- A bevásárlólistához készíts egy rövid **„Beszerzési ütemezés"** szakaszt: a fő bevásárlás legkésőbbi napja, és ha kell, melyik tételt mikorra kell beszerezni.
+- Gyorsan romló tételeknél (friss hal, friss zöldfűszer, pékáru) jelezd, hogy a felhasználás napjához közel, de még a határidőn belül érdemes venni.
 
 ### 4. lépés: Kedvencek / receptek frissítése
 

@@ -5,6 +5,10 @@
 **Elkészítési idő:** ~60 perc
 **Adag:** 4 fő *(5 főre arányosan növeld)*
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — másnap még jobb az íze
+
+**Gyakoriság:** 🔁 ~3 hetente 1×
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi
 

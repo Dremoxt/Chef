@@ -4,6 +4,10 @@
 **Elkészítési idő:** 15 perc (+ 30 perc hűtés ajánlott)
 **Adag:** 5 fő
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — hűtőben 2-3 napig eláll, érleléssel finomabb
+
+**Gyakoriság:** 🔁 Igény szerint — kísérő/mártás
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

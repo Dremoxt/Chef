@@ -7,6 +7,10 @@
 
 > A ragu receptje: `bolognai-ragu.md`
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — a ragu (vagy az egész) előző nap, másnap csak sütés
+
+**Gyakoriság:** 🔁 ~3 hetente 1× — nagy projekt
+
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — kedvenc!
 - 🟢 Középső gyerek — eszik

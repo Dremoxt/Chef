@@ -4,6 +4,10 @@
 **Elkészítési idő:** ~35 perc
 **Adag:** 5 fő
 
+**Előkészíthetőség:** 🟢 Előző nap elkészíthető — felmelegítve is jó
+
+**Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
+
 ## Gyerekek
 - 🔴 Legnagyobb gyerek — nem eszi
 - 🟢 Középső gyerek — eszi
