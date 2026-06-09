@@ -93,6 +93,7 @@ Minden receptfájl tartalmaz egy **Szezonalitás** mezőt, ami megmondja, melyik
 │   ├── rakott-krumpli.md
 │   ├── savanyú-krumplileves.md
 │   ├── sertes-szuzerme-krumplipurevel.md
+│   ├── spargakremleves.md
 │   ├── spenótos-tejszínes-csirkemell.md
 │   ├── tejbegriz.md
 │   ├── tojas-krem.md
