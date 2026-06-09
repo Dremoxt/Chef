@@ -7,7 +7,7 @@
 
 **Előkészíthetőség:** 🟡 Részben előkészíthető — a spenót előre párolható, a tejszínes befejezés frissen
 
-**Szezonalitás:** 🌸☀️ Tavasz/Nyár — friss spenót szezonban
+**Szezonalitás:** 🌿 Egész évben
 
 **Gyakoriság:** 🔁 ~3 hetente 1×
 

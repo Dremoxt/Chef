@@ -7,7 +7,7 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — előző nap összerakható, másnap csak sütés (+5-10 perc)
 
-**Szezonalitás:** 🍂❄️ Ősz/Tél
+**Szezonalitás:** 🌿 Egész évben
 
 **Gyakoriság:** 🔁 ~3 hetente 1×
 

@@ -9,7 +9,7 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — a ragu (vagy az egész) előző nap, másnap csak sütés
 
-**Szezonalitás:** 🍂❄️ Ősz/Tél
+**Szezonalitás:** 🌿 Egész évben
 
 **Gyakoriság:** 🔁 ~3 hetente 1× — nagy projekt
 

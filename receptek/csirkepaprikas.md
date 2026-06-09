@@ -8,7 +8,7 @@
 
 **Előkészíthetőség:** 🟡 Részben előkészíthető — a paprikás előző nap (másnap finomabb), a galuska frissen
 
-**Szezonalitás:** 🍂❄️ Ősz/Tél
+**Szezonalitás:** 🌿 Egész évben
 
 **Gyakoriság:** 🔁 ~3 hetente 1× — LEGFELJEBB 3 hetente egyszer
 

@@ -6,7 +6,7 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — felmelegítve is jó
 
-**Szezonalitás:** 🍂❄️ Ősz/Tél
+**Szezonalitás:** 🌿 Egész évben
 
 **Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
 

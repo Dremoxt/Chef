@@ -6,7 +6,7 @@
 
 **Előkészíthetőség:** 🔴 Frissen, aznap készítendő — gyors, frissen készítendő
 
-**Szezonalitás:** 🍂❄️ Ősz/Tél
+**Szezonalitás:** 🌿 Egész évben
 
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
