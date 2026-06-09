@@ -9,7 +9,7 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1×
 
-**Szezonalitás:** 🍂❄️ Ősz–tél (laktató)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🔴 Legnagyobb gyerek — nem eszi

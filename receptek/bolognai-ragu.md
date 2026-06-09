@@ -12,7 +12,7 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1× — hosszú, laktató
 
-**Szezonalitás:** 🍂❄️ Ősz–tél (lassú, laktató)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — eszik

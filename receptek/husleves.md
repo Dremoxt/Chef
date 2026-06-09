@@ -8,7 +8,7 @@
 
 **Gyakoriság:** 🔁 ~Hetente 1× — hétvégi
 
-**Szezonalitás:** 🍂❄️ Ősz–tél (hidegben klasszikus; egész évben jó)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — eszik

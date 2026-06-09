@@ -8,7 +8,7 @@
 
 **Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
 
-**Szezonalitás:** 🌱🍂 Tavasz–ősz (friss brokkoli)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🔴 Legnagyobb gyerek — nem eszi

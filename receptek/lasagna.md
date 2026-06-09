@@ -11,7 +11,7 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1× — nagy projekt
 
-**Szezonalitás:** 🍂❄️ Ősz–tél (laktató)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — kedvenc!

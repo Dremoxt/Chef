@@ -9,7 +9,7 @@
 
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
-**Szezonalitás:** ☀️ Nyár-barát (könnyű, paradicsomos; egész évben jó)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — eszik

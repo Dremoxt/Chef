@@ -8,7 +8,7 @@
 
 **Gyakoriság:** 🔁 Igény szerint — kísérő/mártás
 
-**Szezonalitás:** ☀️ Nyár (hűsítő, friss uborka)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🟢 Mindenki eszik

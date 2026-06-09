@@ -9,7 +9,7 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1×
 
-**Szezonalitás:** 🍂❄️ Ősz–tél (savanyú káposzta szezonja)
+**Szezonalitás:** 🗓️ Egész évben
 
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi
