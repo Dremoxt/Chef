@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — hűtőben eláll, lehűtve is finom
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
 ## Gyerekek

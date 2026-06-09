@@ -8,6 +8,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — a bab előző nap, a szalsza frissen készüljön
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél
+
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
 ## Gyerekek

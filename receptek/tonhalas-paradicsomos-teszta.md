@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🟡 Részben előkészíthető — a paradicsomos szósz előző nap, a tészta frissen főzve
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
 ## Gyerekek

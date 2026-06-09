@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🔴 Frissen, aznap készítendő — gyors, frissen melegítve
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 Heti 1-2× — gyors kedvenc
 
 ## Gyerekek

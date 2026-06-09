@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — felmelegítve is jó
 
+**Szezonalitás:** ☀️🍂 Nyár/Ősz — cukkini szezonban a legjobb
+
 **Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
 
 ## Gyerekek

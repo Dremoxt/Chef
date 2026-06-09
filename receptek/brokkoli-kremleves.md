@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — felmelegítve is jó
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
 
 ## Gyerekek

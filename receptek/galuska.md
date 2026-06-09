@@ -8,6 +8,8 @@
 
 **Előkészíthetőség:** 🔴 Frissen, aznap készítendő — frissen a legjobb, állva összeragad
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 Igény szerint — köret
 
 ## Gyerekek

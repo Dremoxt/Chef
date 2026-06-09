@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — felmelegítve is jó
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél — karfiol csúcsszezonban
+
 **Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
 
 ## Gyerekek

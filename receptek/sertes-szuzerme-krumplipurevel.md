@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🟡 Részben előkészíthető — a krumplipüré előkészíthető, a szűzérme frissen sütendő
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél
+
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
 ## Gyerekek

@@ -10,6 +10,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — sőt másnapra még jobb az íze
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél
+
 **Gyakoriság:** 🔁 ~3 hetente 1× — hosszú, laktató
 
 ## Gyerekek

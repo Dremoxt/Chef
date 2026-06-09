@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — másnap még jobb az íze
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél
+
 **Gyakoriság:** 🔁 ~3 hetente 1×
 
 ## Gyerekek

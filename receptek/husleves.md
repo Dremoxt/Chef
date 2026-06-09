@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — előző nap is főzhető, másnap még jobb
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél
+
 **Gyakoriság:** 🔁 ~Hetente 1× — hétvégi
 
 ## Gyerekek

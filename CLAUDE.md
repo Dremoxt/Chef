@@ -41,6 +41,15 @@ Minden receptfájl tartalmaz egy **Előkészíthetőség** mezőt, ami megmondja
 
 Tervezésnél használd ezt: zsúfolt napokra a 🟢/🟡 ételeket időzítsd (előző nap előkészítve), a 🔴 ételeket ráérős napokra.
 
+### Szezonalitás címke (minden receptfájl fejlécében)
+Minden receptfájl tartalmaz egy **Szezonalitás** mezőt, ami megmondja, mikor a legideálisabb az étel:
+- 🌿 **Egész évben** — nincs szezonális kötöttsége, bármikor illik
+- 🍂❄️ **Ősz/Tél** — melegítő, laktató fogás; szeptember–február között időzítsd
+- ☀️🍂 **Nyár/Ősz** — friss szezonális zöldség (cukkini, uborka); június–október között
+- 🌸☀️ **Tavasz/Nyár** — tavaszi/nyári alapanyag (spenót); március–augusztus között
+
+**Tervezésnél használd:** az aktuális évszaknak megfelelő ételeket részesítsd előnyben. Szezonon kívüli 🍂❄️ ételeket nyáron csak ritkán tervezz, szezonális zöldségalapú ételeket (☀️🍂, 🌸☀️) az adott időszakon kívül kerüld vagy helyettesítsd.
+
 ### Gyakoriság címke (minden receptfájl fejlécében)
 Minden receptfájl tartalmaz egy **Gyakoriság** mezőt, ami megmondja, milyen sűrűn szerepelhet az étel a menüben:
 - 🔁 **Heti 1-2×** — gyors kedvencek (virsli, meleg szendvics)

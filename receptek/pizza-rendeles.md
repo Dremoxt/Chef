@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🔴 Frissen, aznap készítendő — rendelés, aznap frissen
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~Hetente 1× — pénteki lazítás
 
 ## Gyerekek

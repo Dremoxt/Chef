@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🟡 Részben előkészíthető — a tészta előre összeállítható, a sütés frissen
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~Hetente 1× — édes
 
 ## Gyerekek

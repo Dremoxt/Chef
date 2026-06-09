@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🟢 Előző nap elkészíthető — hűtőben 2-3 napig eláll, érleléssel finomabb
 
+**Szezonalitás:** ☀️🍂 Nyár/Ősz — uborka szezonban a legjobb
+
 **Gyakoriság:** 🔁 Igény szerint — kísérő/mártás
 
 ## Gyerekek

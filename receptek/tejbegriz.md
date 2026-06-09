@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🔴 Frissen, aznap készítendő — frissen a legjobb, állva bőrösödik
 
+**Szezonalitás:** 🍂❄️ Ősz/Tél
+
 **Gyakoriság:** 🔁 ~Hetente 1× — édes
 
 ## Gyerekek

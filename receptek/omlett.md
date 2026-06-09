@@ -6,6 +6,8 @@
 
 **Előkészíthetőség:** 🔴 Frissen, aznap készítendő — frissen, azonnal tálalva
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
 ## Gyerekek

@@ -7,6 +7,8 @@
 
 **Előkészíthetőség:** 🟡 Részben előkészíthető — a pác/csíkok előző nap, a sütés aznap frissen
 
+**Szezonalitás:** 🌿 Egész évben
+
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
 ## Gyerekek
