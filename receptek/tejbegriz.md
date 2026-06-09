@@ -9,6 +9,8 @@
 
 **Gyakoriság:** 🔁 ~Hetente 1× — édes
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟢 Legnagyobb gyerek — szereti
 - 🔴 Középső gyerek — nem eszi

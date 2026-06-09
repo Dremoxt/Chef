@@ -8,6 +8,8 @@
 
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi — omlett estéken a gyerekeknek alternatív vacsorát kell tervezni
 

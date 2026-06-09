@@ -9,6 +9,8 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1×
 
+**Szezonalitás:** 🍂❄️ Ősz–tél (laktató, hidegben)
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi igazán
 

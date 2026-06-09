@@ -9,6 +9,8 @@
 
 **Gyakoriság:** 🔁 ~2 hetente 1×
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

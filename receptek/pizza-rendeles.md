@@ -9,6 +9,8 @@
 
 **Gyakoriság:** 🔁 ~Hetente 1× — pénteki lazítás
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

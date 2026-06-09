@@ -8,6 +8,8 @@
 
 **Gyakoriság:** 🔁 ~2 hetente 1× — leves-rotáció
 
+**Szezonalitás:** 🍂❄️ Ősz–tél (karfiol főszezon)
+
 ## Gyerekek
 - 🔴 Legnagyobb gyerek — nem eszi
 - 🟢 Középső gyerek — eszi

@@ -9,6 +9,8 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1×
 
+**Szezonalitás:** 🌱 Tavasz (friss spenót)
+
 ## Gyerekek
 - 🔴 Egyik gyerek sem eszi
 

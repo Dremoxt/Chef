@@ -9,6 +9,8 @@
 
 **Gyakoriság:** 🔁 ~Hetente 1× — édes
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟢 Mindenki eszik — kedvenc!
 

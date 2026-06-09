@@ -10,6 +10,8 @@
 
 **Gyakoriság:** 🔁 Igény szerint — köret
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟢 Mindenki eszik
 

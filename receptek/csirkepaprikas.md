@@ -10,6 +10,8 @@
 
 **Gyakoriság:** 🔁 ~3 hetente 1× — LEGFELJEBB 3 hetente egyszer
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟡 Legnagyobb gyerek — nem nagyon eszi
 - 🟢 Középső gyerek — eszik

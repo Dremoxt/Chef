@@ -8,6 +8,8 @@
 
 **Gyakoriság:** 🔁 Heti 1-2× — gyors kedvenc
 
+**Szezonalitás:** 🗓️ Egész évben
+
 ## Gyerekek
 - 🟢 Mindenki eszik — gyerekek kedvence!
 

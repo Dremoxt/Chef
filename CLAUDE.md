@@ -51,6 +51,15 @@ Minden receptfájl tartalmaz egy **Gyakoriság** mezőt, ami megmondja, milyen s
 
 **Tervezésnél kötelező:** nézd meg a legutóbbi ~3 hét menütervét (`heti-menu-*.md`), és ne sértsd meg a gyakoriságot — ami nemrég szerepelt, azt a megadott időközön belül ne tervezd újra. **Csirkepaprikás: max 3 hetente egyszer.**
 
+### Szezonalitás címke (minden receptfájl fejlécében)
+Minden receptfájl tartalmaz egy **Szezonalitás** mezőt, ami megmondja, melyik évszakhoz illik leginkább:
+- ☀️ **Nyár** — könnyű, friss zöldséges fogások (cukkini krémleves, caciki)
+- 🌱 **Tavasz** / 🍂 **Ősz** — szezonális zöldségek (brokkoli, spenót)
+- 🍂❄️ **Ősz–tél** — laktató, lassú, melegítő ételek (húsleves, lasagna, rakott krumpli, karfiol/káposztaleves)
+- 🗓️ **Egész évben** — kamra-/hús-alapú, szezonfüggetlen ételek
+
+**Tervezésnél vedd figyelembe az aktuális hónapot:** lehetőleg szezonális fogásokat válassz (nyáron könnyű/zöldséges, télen laktató/melegítő). Az „Egész évben" ételek bármikor mehetnek.
+
 ## Fájlstruktúra
 
 ```
