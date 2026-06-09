@@ -31,7 +31,7 @@ Családi heti menütervező — ebéd és vacsora tervezés 5 főre (2 felnőtt 
 
 ### Étkezés-típus kötések (melyik étel mikor szerepelhet)
 - **Csak ebéd:** Csirkepaprikás, Sertés szűzérme krumplipürével, Pásztorpite
-- **Csak vacsora:** Virsli, Gofri, Tejbegríz, Palacsinta
+- **Csak vacsora:** Virsli, Gofri, Tejbegríz, Palacsinta, Meleg szendvics, Omlett
 
 ### Előkészíthetőség címke (minden receptfájl fejlécében)
 Minden receptfájl tartalmaz egy **Előkészíthetőség** mezőt, ami megmondja, mennyire lehet előre dolgozni vele:
