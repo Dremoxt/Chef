@@ -68,6 +68,7 @@ Minden receptfájl tartalmaz egy **Szezonalitás** mezőt, ami megmondja, melyik
 ├── kedvencek.md               # Család kedvenc ételei
 ├── receptek.md                # Receptlista index (kategóriák, gyerekjelölések, időigény)
 ├── szoszok.md                 # Szósz receptek és párosítások
+├── koretek.md                 # Köretek + párosítási táblázat (melyik köret melyik főétellel)
 ├── receptek/                  # Részletes receptfájlok (egy étel = egy fájl)
 │   ├── bolognai-ragu.md
 │   ├── brokkoli-kremleves.md
