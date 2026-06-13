@@ -75,6 +75,7 @@ Minden receptfájl tartalmaz egy **Szezonalitás** mezőt, ami megmondja, melyik
 │   ├── csilis-bab.md
 │   ├── csirkepaprikas.md
 │   ├── cukkini-kremleves.md
+│   ├── fott-hus.md
 │   ├── fuszeres-csirkemell-csikok.md
 │   ├── galuska.md
 │   ├── gofri.md
@@ -118,7 +119,7 @@ Minden receptfájl tartalmaz egy **Szezonalitás** mezőt, ami megmondja, melyik
 ## Minőségi elvárások
 
 - **Tervezés előtt MINDIG egyezz meg a főzési kapacitásban:** mely napokon főzünk (vs. maradék/rendelés), és az egyes főzős napokon mennyi idő / mikor lesz a főzésre. Ez alapján időzítsd az ételeket az előkészíthetőség címke szerint (zsúfolt nap → 🟢/🟡 + gyors fogás; ráérős nap → 🔴 + hosszabb ételek).
-- A menütervet KIZÁRÓLAG a `receptek/` mappában lévő receptek alapján kell összeállítani
+- **A menüben KIZÁRÓLAG olyan étel szerepelhet, amihez van rögzített recept a `receptek/` mappában — MINDIG, kivétel nincs.** Minden egyes fogásnak (leves, főétel, vacsora, köret) konkrét receptfájlra kell hivatkoznia. Tilos olyan tételt írni, aminek nincs receptje (pl. „hidegtál", „főtt hús" recept nélkül). Ha egy kívánt étel nincs dokumentálva, ELŐBB hozz létre hozzá receptfájlt, és csak utána tedd a menübe.
 - **Tervezés előtt MINDIG kérdezd meg, mit ettek/főztek VALÓJÁBAN az elmúlt héten** — a mentett menütervek gyakran nem tükrözik a valóságot (a család sokszor változtat). A tényleges étkezéseket vedd alapul, ne csak a `heti-menu-*.md` fájlokat.
 - **Tartsd be a receptek Gyakoriság címkéjét:** a tényleges (megkérdezett) elmúlt heti étkezések + a legutóbbi ~3 hét menüi alapján ne ismételj a megadott időköznél sűrűbben (csirkepaprikás max 3 hetente egyszer)
 - A bevásárlólista az egyes receptfájlokban szereplő pontos hozzávalók alapján készül
